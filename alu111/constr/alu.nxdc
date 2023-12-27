@@ -1,0 +1,13 @@
+top=alu
+
+A (SW3, SW2, SW1, SW0)
+B (SW7, SW6, SW5, SW4)
+opcode (SW10, SW9, SW8)
+out (LD3, LD2, LD1, LD0)
+carry_out LD4
+overflow LD5
+
+equal LD6
+
+
+
